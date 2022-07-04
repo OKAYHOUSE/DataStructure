@@ -1,0 +1,15 @@
+/Users/tko/Projects/DataStructure/DataStructure/obj/Debug/net6.0/DataStructure.csproj.AssemblyReference.cache
+/Users/tko/Projects/DataStructure/DataStructure/obj/Debug/net6.0/DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tko/Projects/DataStructure/DataStructure/obj/Debug/net6.0/DataStructure.AssemblyInfoInputs.cache
+/Users/tko/Projects/DataStructure/DataStructure/obj/Debug/net6.0/DataStructure.AssemblyInfo.cs
+/Users/tko/Projects/DataStructure/DataStructure/obj/Debug/net6.0/DataStructure.csproj.CoreCompileInputs.cache
+/Users/tko/Projects/DataStructure/DataStructure/bin/Debug/net6.0/DataStructure
+/Users/tko/Projects/DataStructure/DataStructure/bin/Debug/net6.0/DataStructure.deps.json
+/Users/tko/Projects/DataStructure/DataStructure/bin/Debug/net6.0/DataStructure.runtimeconfig.json
+/Users/tko/Projects/DataStructure/DataStructure/bin/Debug/net6.0/DataStructure.dll
+/Users/tko/Projects/DataStructure/DataStructure/bin/Debug/net6.0/DataStructure.pdb
+/Users/tko/Projects/DataStructure/DataStructure/obj/Debug/net6.0/DataStructure.dll
+/Users/tko/Projects/DataStructure/DataStructure/obj/Debug/net6.0/refint/DataStructure.dll
+/Users/tko/Projects/DataStructure/DataStructure/obj/Debug/net6.0/DataStructure.pdb
+/Users/tko/Projects/DataStructure/DataStructure/obj/Debug/net6.0/DataStructure.genruntimeconfig.cache
+/Users/tko/Projects/DataStructure/DataStructure/obj/Debug/net6.0/ref/DataStructure.dll
